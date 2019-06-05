@@ -1,0 +1,32 @@
+2019-06-05T05:46:03+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/child-storefront/functions.php:17) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 87
+
+2019-06-05T05:46:10+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/child-storefront/functions.php:17) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 87
+
+2019-06-05T05:46:12+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/child-storefront/functions.php:17) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 87
+
+2019-06-05T05:46:16+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/child-storefront/functions.php:17) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 87
+
+2019-06-05T05:46:53+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/child-storefront/functions.php:17) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 87
+
+2019-06-05T06:15:45+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/storefront-child/functions.php:18) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 85
+
+2019-06-05T06:15:53+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/storefront-child/functions.php:18) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 85
+
+2019-06-05T06:16:02+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/storefront-child/functions.php:18) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 85
+
+2019-06-05T06:16:59+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/storefront-child/functions.php:18) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 85
+
+2019-06-05T06:28:28+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/storefront-child/functions.php:24) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 85
+
+2019-06-05T06:29:07+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/storefront-child/functions.php:29) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 85
+
+2019-06-05T06:29:26+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/storefront-child/functions.php:32) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 85
+
+2019-06-05T06:29:27+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/storefront-child/functions.php:32) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 85
+
+2019-06-05T06:29:55+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/storefront-child/functions.php:32) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 85
+
+2019-06-05T06:30:05+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/storefront-child/functions.php:29) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 85
+
+2019-06-05T06:30:11+00:00 CRITICAL Cannot redeclare action_before_add_to_cart_button() (previously declared in /var/www/html/wootest/wp-content/themes/storefront-child/functions.php:29) in /var/www/html/wootest/wp-content/themes/storefront/functions.php on line 85
+
